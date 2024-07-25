@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
+/*Connetion*/
+
 namespace ProyectoBiblioteca.Logica
 {
     public class Conexion
